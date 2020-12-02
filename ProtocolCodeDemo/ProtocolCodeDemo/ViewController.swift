@@ -55,7 +55,7 @@ class ViewController: UIViewController {
         shakeView.center.x = view.center.x
         centerBtn.center.x = view.center.x
         showBtn.center.x = view.center.x
-        Array
+        
     }
     
     
