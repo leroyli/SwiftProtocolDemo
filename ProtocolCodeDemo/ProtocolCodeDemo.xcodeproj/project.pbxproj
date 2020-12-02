@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		FACC66892577900800F28070 /* SendAward3.bundle in Resources */ = {isa = PBXBuildFile; fileRef = FACC66882577900800F28070 /* SendAward3.bundle */; };
 		FACC668E2577908400F28070 /* sendFIle.zip in Resources */ = {isa = PBXBuildFile; fileRef = FACC668D2577908400F28070 /* sendFIle.zip */; };
+		FACC66932577976100F28070 /* imgFile.zip in Resources */ = {isa = PBXBuildFile; fileRef = FACC66922577976100F28070 /* imgFile.zip */; };
 		FAE07243247A3A6800DD2A43 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE07242247A3A6800DD2A43 /* AppDelegate.swift */; };
 		FAE07245247A3A6800DD2A43 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE07244247A3A6800DD2A43 /* SceneDelegate.swift */; };
 		FAE07247247A3A6800DD2A43 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE07246247A3A6800DD2A43 /* ViewController.swift */; };
@@ -46,6 +47,7 @@
 /* Begin PBXFileReference section */
 		FACC66882577900800F28070 /* SendAward3.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = SendAward3.bundle; sourceTree = "<group>"; };
 		FACC668D2577908400F28070 /* sendFIle.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = sendFIle.zip; sourceTree = "<group>"; };
+		FACC66922577976100F28070 /* imgFile.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = imgFile.zip; sourceTree = "<group>"; };
 		FAE0723F247A3A6800DD2A43 /* ProtocolCodeDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProtocolCodeDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAE07242247A3A6800DD2A43 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FAE07244247A3A6800DD2A43 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -121,6 +123,7 @@
 				FACC66882577900800F28070 /* SendAward3.bundle */,
 				FAE07244247A3A6800DD2A43 /* SceneDelegate.swift */,
 				FAE07246247A3A6800DD2A43 /* ViewController.swift */,
+				FACC66922577976100F28070 /* imgFile.zip */,
 				FACC668D2577908400F28070 /* sendFIle.zip */,
 				FAE07248247A3A6800DD2A43 /* Main.storyboard */,
 				FAE0724B247A3A6B00DD2A43 /* Assets.xcassets */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FAE0724F247A3A6B00DD2A43 /* LaunchScreen.storyboard in Resources */,
+				FACC66932577976100F28070 /* imgFile.zip in Resources */,
 				FACC66892577900800F28070 /* SendAward3.bundle in Resources */,
 				FAE07277247A3DD200DD2A43 /* ShakeView.xib in Resources */,
 				FAE0724C247A3A6B00DD2A43 /* Assets.xcassets in Resources */,
